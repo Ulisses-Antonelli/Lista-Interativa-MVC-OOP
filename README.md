@@ -2,6 +2,9 @@
 
 Este repositório contém um aplicativo simples de uma lista interativa implementando a arquitetura MVC (Model-View-Controller) e escrito em JavaScript com uma abordagem orientada a objetos. O aplicativo permite que os usuários adicionem e marquem itens de uma lista como concluídos alterando sua cor quando o checkbox é acionado.
 
+## Status do projeto: 
+Não finalizado, porém funcional (é necessario corrigir o erro do checkbox, que ao adicionar novos itens o status de concluido é resetado para inconcluso)
+
 ## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
