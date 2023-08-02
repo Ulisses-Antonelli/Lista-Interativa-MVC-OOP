@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#list-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.concluded, 
+.unfinished{
+    font-size: 30px;  
+}
+
+.concluded {
+    color: green;
+}
+
+.unfinished {
+    color: red;
+}
